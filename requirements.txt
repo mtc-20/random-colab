@@ -1,0 +1,10 @@
+langchain_community
+langchain-mcp-adapters
+langchain-openai
+langgraph
+prompt_toolkit
+click
+chromadb
+fastmcp
+git+https://github.com/robinruff/mcphost.git
+

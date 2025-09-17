@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "research": {
+      "command": "uv",
+      "args": [
+        "run",
+        "./math_server.py"
+      ],
+      "transport": "stdio"
+    }
+  }
+}
